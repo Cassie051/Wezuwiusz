@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Knot.qml</file>
+        <file>Camera.qml</file>
+        <file>Resource/mouse.obj</file>
+    </qresource>
+</RCC>
